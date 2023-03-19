@@ -1,0 +1,18 @@
+
+
+
+.p{
+    width: 50%;
+    height: 50vh;
+    background-color: black;
+    z-index: 1;
+    position: relative;
+
+}
+.one{
+    position: relative;
+    z-index: -1;
+width: 220px;
+height: 200px;
+background-color: red;
+}
